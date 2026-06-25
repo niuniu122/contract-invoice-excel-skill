@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contract Invoice Excel"
+  short_description: "Generate stamped contract invoice files."
+  default_prompt: "Generate contract and invoice outputs from this sales-detail Excel file."
